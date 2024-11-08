@@ -314,7 +314,7 @@ a:hover{
     }
 }
 
-@media (max-width:384px) {
+@media (max-width:518px) {
     .tps-sec{
         height: 530px;
     }
